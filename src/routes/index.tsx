@@ -273,8 +273,8 @@ function Index() {
             variants={staggerContainer}
           >
             {[
-              { t: "BS Nursing", s: "Khyber Medical University (KMU), Peshawar", n: "Ongoing" },
-              { t: "Post RN / BSc Nursing", s: "Khyber Medical University, Peshawar", n: "Ongoing" },
+
+              { t: "Post RN / BSc Nursing", s: "Khyber Medical University, Peshawar", n: "Completed" },
               { t: "B.Sc. — Associate Degree Program", s: "Punjab University, Lahore", n: "Completed" },
               { t: "Diploma in General Nursing", s: "Children Hospital, Lahore", n: "3 years full-time" },
               { t: "Diploma in Midwifery Nursing", s: "Lady Willingdon Hospital, Lahore", n: "1 year, Gynecology" },
